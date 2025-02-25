@@ -7,5 +7,6 @@ int main() {
 	std::cin >> a >> b;
 	std::cout << "a + b = " << add(a, b) << std::endl;
 	std::cout << "a - b = " << sub(a, b) << std::endl;
+	std::cout << "a * b = " << mul(a, b) << std::endl;
 	return 0;
 }
