@@ -8,5 +8,6 @@ int main() {
 	std::cout << "Sum: " << add(a, b) << std::endl;
 	std::cout << "Difference: " << sub(a, b) << std::endl;
 	std::cout << "Product: " << mul(a, b) << std::endl;
+	std::cout << "Hello, world!" << std::endl;
 	return 0;
 }
